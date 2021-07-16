@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "kavita-classes",
+    "slug": "kavita-classes",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "kavita-classes"
+}
